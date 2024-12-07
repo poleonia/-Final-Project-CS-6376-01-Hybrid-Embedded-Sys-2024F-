@@ -30,6 +30,6 @@ This project implements an **Aircraft Collision Avoidance System (ACAS)** in a s
 
 ---
 
-## Installation
+## How to use
 1. Clone the repository:
 2. run testing.py

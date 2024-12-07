@@ -1,6 +1,5 @@
 # Aircraft Collision Avoidance System (ACAS) in 3D Environments
 
-![Simulation](https://your-image-link-here) <!-- Optional: Include a visual representation -->
 
 ## Overview
 This project implements an **Aircraft Collision Avoidance System (ACAS)** in a simulated 3D environment. The system ensures safe navigation for multiple aircraft by detecting potential conflicts and dynamically adjusting their flight paths. The implementation uses real-time monitoring, relative coordinate systems, and safety zones to evaluate and resolve collision risks effectively.
@@ -33,6 +32,4 @@ This project implements an **Aircraft Collision Avoidance System (ACAS)** in a s
 
 ## Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/acas-3d.git
-   cd acas-3d
+2. run testing.py
